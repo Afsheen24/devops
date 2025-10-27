@@ -1,1 +1,1 @@
-hello docker
+print("hello docker")
